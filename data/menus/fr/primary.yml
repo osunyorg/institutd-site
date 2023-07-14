@@ -5,4 +5,8 @@ items:
   target: "/actualites/"
   kind: page
   children: []
+- title: Nos formations
+  target: ''
+  kind: blank
+  children: []
 
