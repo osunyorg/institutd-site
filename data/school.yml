@@ -1,0 +1,36 @@
+---
+name: >
+  Institut Supérieur de Design de Saint-Malo
+address: >
+  20, rue Théodore Monod
+zipcode: >
+  35400
+city: >
+  Saint-Malo
+country: >
+  France
+phone: >
+  
+administrators:
+  - "louise-briec"
+  - "leslie-hebert"
+  - "thiago-maximo"
+  - "julien-vey"
+administrators_description:
+  "louise-briec": >
+    
+  "leslie-hebert": >
+    
+  "thiago-maximo": >
+    
+  "julien-vey": >
+    
+roles:
+  - title: >
+      
+    persons:
+      - "julien-vey"
+      - "louise-briec"
+      - "leslie-hebert"
+      - "thiago-maximo"
+---
