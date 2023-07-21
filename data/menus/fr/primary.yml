@@ -6,7 +6,7 @@ items:
   kind: page
   children: []
 - title: Nos formations
-  target: ''
-  kind: blank
+  target: "/formations/"
+  kind: page
   children: []
 
