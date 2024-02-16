@@ -1,16 +1,11 @@
 ---
-name: >
-  Institut Supérieur de Design de Saint-Malo
-address: >
+name: "Institut Supérieur de Design de Saint-Malo"
+address: >-
   20, rue Théodore Monod
-zipcode: >
-  35400
-city: >
-  Saint-Malo
-country: >
-  France
-phone: >
-  
+zipcode: "35400"
+city: "Saint-Malo"
+country: "France"
+phone: ""
 administrators:
   - "louise-briec"
   - "leslie-hebert"
