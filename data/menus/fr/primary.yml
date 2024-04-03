@@ -9,4 +9,8 @@ items:
   target: "/formations/"
   kind: page
   children: []
+- title: Nav1
+  target: https://institut.design
+  kind: url
+  children: []
 
