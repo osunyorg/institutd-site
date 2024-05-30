@@ -8,15 +8,15 @@ country: "France"
 phone: ""
 administrators:
   - "louise-briec"
-  - "leslie-hebert"
   - "thiago-maximo"
+  - "damien-serres"
   - "julien-vey"
 administrators_description:
   "louise-briec": >
     
-  "leslie-hebert": >
-    
   "thiago-maximo": >
+    
+  "damien-serres": >
     
   "julien-vey": >
     
@@ -26,6 +26,6 @@ roles:
     persons:
       - "julien-vey"
       - "louise-briec"
-      - "leslie-hebert"
+      - "damien-serres"
       - "thiago-maximo"
 ---
