@@ -7,13 +7,10 @@ city: "Saint-Malo"
 country: "France"
 phone: ""
 administrators:
-  - "louise-briec"
   - "thiago-maximo"
   - "damien-serres"
   - "julien-vey"
 administrators_description:
-  "louise-briec": >
-    
   "thiago-maximo": >
     
   "damien-serres": >
@@ -25,7 +22,6 @@ roles:
       
     persons:
       - "julien-vey"
-      - "louise-briec"
       - "damien-serres"
       - "thiago-maximo"
 ---
