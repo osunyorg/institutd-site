@@ -6,6 +6,7 @@ zipcode: "35400"
 city: "Saint-Malo"
 country: "France"
 phone: ""
+url: "https://institut.design"
 administrators:
   - "thiago-maximo"
   - "damien-serres"
