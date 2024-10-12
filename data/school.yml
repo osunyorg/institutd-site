@@ -7,6 +7,12 @@ city: "Saint-Malo"
 country: "France"
 phone: ""
 url: "https://institut.design"
+contact_details:
+  url:
+    label: >-
+      institut.design
+    value: >-
+      https://institut.design
 administrators:
   - "thiago-maximo"
   - "damien-serres"
