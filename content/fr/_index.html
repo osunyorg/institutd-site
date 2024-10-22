@@ -53,20 +53,28 @@ header_cta:
   target: ""
   external: false
 contents_reading_time:
-  seconds: 1
+  seconds: 2
   text: >-
     moins d'une minute
 contents:
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Nos formations
-    slug: "nos-formations"
-    position: 1
-    rank: 2
+    slug: >-
+      nos-formations
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: pages
     title: >-
       Étudier à l'Institut D.
+    slug: >-
+      etudier-a-l-institut-d
     ranks:
       self: 3
     data:
@@ -83,6 +91,8 @@ contents:
     template: programs
     title: >-
       Nos formations
+    slug: >-
+      nos-formations
     ranks:
       self: 3
     data:
@@ -93,7 +103,6 @@ contents:
         summary: false
 
       programs:
-
 
 
 
