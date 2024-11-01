@@ -8,6 +8,29 @@ country: "France"
 phone: ""
 url: "https://institut.design"
 contact_details:
+  postal_address:
+    data:
+      address: >-
+        20, rue Théodore Monod
+      address_additional: >-
+        
+      zipcode: >-
+        35400
+      city: >-
+        Saint-Malo
+      country: >-
+        name: >-
+          France
+        alpha2: >-
+          FR
+        alpha3: >-
+          FRA
+      country: >-
+        France
+    text: >-
+      20, rue Théodore Monod 35400 Saint-Malo FRANCE
+    html: >-
+      <address itemprop="address" itemscope itemtype="https://schema.org/PostalAddress"> <span itemprop="streetAddress">20, rue Théodore Monod</span> <span itemprop="postalCode">35400</span> <span itemprop="addressLocality">Saint-Malo</span> <span itemprop="addressCountry">FRANCE</span></address>
   url:
     label: >-
       institut.design
