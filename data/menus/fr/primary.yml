@@ -5,8 +5,10 @@ items:
   target: "/actualites/"
   kind: page
   children: []
+  file: content/fr/posts/_index.html
 - title: Nos formations
   target: "/formations/"
   kind: page
   children: []
+  file: content/fr/programs/_index.html
 
