@@ -56,7 +56,16 @@ roles:
   - title: >-
       
     persons:
-      - "julien-vey"
-      - "damien-serres"
-      - "thiago-maximo"
+      - permalink: "/equipe/julien-vey/"
+        path: "/persons/julien-vey"
+        slug: "julien-vey"
+        file: "content/fr/persons/julien-vey.html"
+      - permalink: "/equipe/damien-serres/"
+        path: "/persons/damien-serres"
+        slug: "damien-serres"
+        file: "content/fr/persons/damien-serres.html"
+      - permalink: "/equipe/thiago-maximo/"
+        path: "/persons/thiago-maximo"
+        slug: "thiago-maximo"
+        file: "content/fr/persons/thiago-maximo.html"
 ---
