@@ -5,10 +5,12 @@ items:
   target: "/actualites/"
   kind: page
   children: []
+  path: "/posts"
   file: content/fr/posts/_index.html
 - title: Nos formations
   target: "/formations/"
   kind: page
   children: []
+  path: "/programs"
   file: content/fr/programs/_index.html
 
