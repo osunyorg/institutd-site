@@ -4,5 +4,6 @@ items:
 - title: Instagram
   target: https://www.instagram.com/institutd/
   kind: url
+  new_tab: true
   children: []
 
