@@ -2,8 +2,10 @@
 title: Liens sociaux
 items:
 - title: Instagram
+  slug: instagram
   target: https://www.instagram.com/institutd/
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 
