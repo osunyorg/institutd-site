@@ -15,30 +15,30 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/equipe/leslie-hebert/roles/index.html"
+from = "/equipe/leslie-hebert/roles/"
 to = "/equipe/damien-serres/roles/"
 
 [[redirects]]
-from = "/equipe/leslie-hebert/programs/index.html"
+from = "/equipe/leslie-hebert/programs/"
 to = "/equipe/damien-serres/programs/"
 
 [[redirects]]
-from = "/agenda/commerce-connecte-parcours-design-et-innovation-sociale/index.html"
+from = "/agenda/commerce-connecte-parcours-design-et-innovation-sociale/"
 to = "/agenda/offre-de-formation/commerce-connecte-parcours-design-et-innovation-sociale/"
 
 [[redirects]]
-from = "/equipe/leslie-hebert/index.html"
+from = "/equipe/leslie-hebert/"
 to = "/equipe/damien-serres/"
 
 [[redirects]]
-from = "/agenda/design-et-societes-nouvelles/index.html"
+from = "/agenda/design-et-societes-nouvelles/"
 to = "/agenda/offre-de-formation/design-et-societes-nouvelles/"
 
 [[redirects]]
-from = "/institut-superieur-de-design-de-saint-malo/index.html"
+from = "/institut-superieur-de-design-de-saint-malo/"
 to = "/ecoles/institut-superieur-de-design-de-saint-malo/"
 
 [[redirects]]
-from = "/actualites/offre-de-formation/commerce-connecte-parcours-design-et-innovation-sociale/design-et-societes-nouvelles-bac-3/index.html"
+from = "/actualites/offre-de-formation/commerce-connecte-parcours-design-et-innovation-sociale/design-et-societes-nouvelles-bac-3/"
 to = "/actualites/offre-de-formation/design-et-societes-nouvelles-bac-3/"
 
