@@ -14,3 +14,31 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
 
+[[redirects]]
+from = "/equipe/leslie-hebert/roles/index.html"
+to = "/equipe/damien-serres/roles/"
+
+[[redirects]]
+from = "/equipe/leslie-hebert/programs/index.html"
+to = "/equipe/damien-serres/programs/"
+
+[[redirects]]
+from = "/agenda/commerce-connecte-parcours-design-et-innovation-sociale/index.html"
+to = "/agenda/offre-de-formation/commerce-connecte-parcours-design-et-innovation-sociale/"
+
+[[redirects]]
+from = "/equipe/leslie-hebert/index.html"
+to = "/equipe/damien-serres/"
+
+[[redirects]]
+from = "/agenda/design-et-societes-nouvelles/index.html"
+to = "/agenda/offre-de-formation/design-et-societes-nouvelles/"
+
+[[redirects]]
+from = "/institut-superieur-de-design-de-saint-malo/index.html"
+to = "/ecoles/institut-superieur-de-design-de-saint-malo/"
+
+[[redirects]]
+from = "/actualites/offre-de-formation/commerce-connecte-parcours-design-et-innovation-sociale/design-et-societes-nouvelles-bac-3/index.html"
+to = "/actualites/offre-de-formation/design-et-societes-nouvelles-bac-3/"
+
