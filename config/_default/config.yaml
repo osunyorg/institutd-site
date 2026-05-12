@@ -2,9 +2,12 @@ theme: osuny
 _merge: deep
 params:
   logo:
-    header: "/assets/images/logo-institut-design-blanc.svg"
+    header: "/assets/images/institut-noir.svg"
     footer: "/assets/images/logo-institut-design-blanc.svg"
   breadcrumb:
     position: after-hero
   summary:
     position: hero
+  home:
+    head:
+      title: site

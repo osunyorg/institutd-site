@@ -1,6 +1,33 @@
 ---
 title: Menu principal
 items:
+- title: École
+  slug: ecole
+  target: "/ecole/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/ecole"
+  file: content/fr/pages/ecole/_index.html
+- title: Formation
+  slug: formation
+  target: "/formation/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/programs"
+  file: content/fr/programs/_index.html
+- title: Recherche
+  slug: recherche
+  target: "/recherche/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/recherche"
+  file: content/fr/pages/recherche/_index.html
 - title: Actualités
   slug: actualites
   target: "/actualites/"
@@ -10,13 +37,13 @@ items:
   descendants_targets: []
   path: "/posts"
   file: content/fr/posts/_index.html
-- title: Nos formations
-  slug: nos-formations
-  target: "/formations/"
+- title: Agenda
+  slug: agenda
+  target: "/agenda/"
   kind: page
   new_tab: false
   children: []
   descendants_targets: []
-  path: "/programs"
-  file: content/fr/programs/_index.html
+  path: "/events"
+  file: content/fr/events/_index.html
 
