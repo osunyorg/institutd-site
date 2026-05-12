@@ -20,18 +20,29 @@ header#document-header
                             font-size: pxToRem(30)
                             padding: 0
 .has-menu-sticky
-    header#document-header
-        .primary-menu
-            > .container
-                @include media-breakpoint-up(desktop)
+    @include media-breakpoint-up(desktop)
+        header#document-header
+            .primary-menu
+                > .container
                     display: flex
                     .logo
                         img
                             width: 200px
                     .menu
                         margin-top: 0
-                        margin-left: $spacing-4
-                        margin-right: 0
                         li
+                            margin-left: $spacing-4
+                            margin-right: 0 !important
                             a
                                 font-size: pxToRem(20)
+
+footer#document-footer
+    @include media-breakpoint-up(desktop)
+        .logo
+            position: fixed
+            top: 200px
+            right: -50px
+            z-index: -1
+            img
+                height: 550px
+                transform: rotate(-20deg)
