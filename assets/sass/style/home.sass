@@ -1,5 +1,6 @@
 .page__home
     header#document-header
+        position: relative !important
         .primary-menu
             > .container
                 display: block
@@ -11,10 +12,12 @@
                             height: auto
                             transition: width 0.25s
                     .menu
-                        margin-top: $spacing-5
+                        margin-top: space(-4)
                         li
                             margin-left: 0
                             margin-right: $spacing-4 !important
                             a
                                 font-size: pxToRem(30)
                                 padding: 0
+    .hero
+        padding-top: 0 !important
