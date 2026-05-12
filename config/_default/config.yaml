@@ -8,3 +8,6 @@ params:
     position: after-hero
   summary:
     position: hero
+  home:
+    head:
+      title: site
