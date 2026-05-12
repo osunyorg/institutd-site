@@ -1,10 +1,17 @@
 header#document-header
+    position: relative !important
     .primary-menu
         > .container
             .menu
                 a
                     font-family: $font-plex-mono
                     font-style: italic
+    @include media-breakpoint-down(desktop)
+        .logo
+            img
+                width: 100%
+                height: auto
+                transition: width 0.25s
     @include media-breakpoint-up(desktop)
         .primary-menu
             > .container
