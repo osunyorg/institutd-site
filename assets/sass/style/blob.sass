@@ -1,19 +1,19 @@
 @keyframes morph
     0%,100%
         border-radius: 42% 58% 70% 30% / 45% 45% 55% 55%
-        transform: translate3d(0, 0, 0) rotateZ(0.01deg)
+        transform: rotateZ(0.01deg)
 
     34%
         border-radius: 70% 30% 46% 54% / 30% 29% 71% 70%
-        transform: translate3d(0, 5px, 0) rotateZ(0.01deg)
+        transform: rotateZ(0.01deg)
 
     50%
         opacity: .89
-        transform: translate3d(0, 0, 0) rotateZ(0.01deg)
+        transform: rotateZ(0.01deg)
 
     67%
         border-radius: 100% 60% 60% 100% / 100% 100% 60% 60%
-        transform: translate3d(0, -3px, 0) rotateZ(0.01deg)
+        transform: rotateZ(0.01deg)
 
 #blob
     background-image: linear-gradient(120deg, $color-electric-blue 0%, $color-pink 100%)
@@ -31,7 +31,7 @@
         position: relative
         margin-left: auto
         margin-right: auto
-        margin-top: 30px 
+        margin-top: 35px 
         z-index: 1
     &:before,
     &:after
