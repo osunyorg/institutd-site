@@ -10,7 +10,7 @@ header_text: >-
 url: "/"
 slug: ""
 date: 2023-07-14T21:32:35+02:00
-lastmod: 2026-05-13T11:03:18+02:00
+lastmod: 2026-05-13T11:07:37+02:00
 meta:
   hugo:
     permalink: "/"
@@ -19,7 +19,7 @@ meta:
     slug: ""
   dates:
     created_at: 2023-01-31T17:15:47+01:00
-    updated_at: 2026-05-13T11:03:18+02:00
+    updated_at: 2026-05-13T11:07:37+02:00
     published_at: 2023-07-14T21:32:35+02:00
 search:
   id: "a36da9d5-e22c-4a22-b1f2-cd4a5b1200f0"
@@ -31,7 +31,7 @@ search:
     Accueil
 
   body: >-
-    <p>Formations </p>
+    <p>Formations </p>  <p> Nos étudiant·e·s témoignent  <br>Un super établissement, professeurs à l'écoute, cours variés et bonne ambiance de classe. J'ai passé plusieurs années avec une phobie scolaire, mais grâce à cette formation j'ai pu m'en libérer. En un an, j'ai appris énormément de choses, autant professionnellement que personnellement. Je recommande fortement ! <br>Florian</p>
 
 breadcrumbs:
   - title: >-
@@ -129,7 +129,7 @@ header_cta:
 
 
 contents_reading_time:
-  seconds: 0
+  seconds: 15
   text: >-
     moins d'une minute
 contents:
@@ -180,6 +180,35 @@ contents:
       quantity: 3
 
   - kind: block
+    template: testimonials
+    title: >-
+      Nos étudiant·e·s témoignent
+    slug: >-
+      nos-etudiant-e-s-temoignent
+    ranks:
+      base: 2
+      self: 2
+    top:
+      active: true
+      title: 
+        value: >-
+          Nos étudiant·e·s témoignent
+        heading: 2
+        screen_reader_only: true
+
+    data:
+      layout: carousel
+      testimonials:
+        - 
+          text: >-
+            <p>Un super établissement, professeurs à l'écoute, cours variés et bonne ambiance de classe.<br>J'ai passé plusieurs années avec une phobie scolaire, mais grâce à cette formation j'ai pu m'en libérer. En un an, j'ai appris énormément de choses, autant professionnellement que personnellement. Je recommande fortement !</p>
+          author: >-
+            Florian
+
+
+
+
+  - kind: block
     template: organizations
 
 
@@ -207,6 +236,28 @@ contents:
           file: "content/fr/organizations/imts.html"
 
       quantity: 1
+
+
+  - kind: block
+    template: categories
+
+
+    ranks:
+      base: 2
+    top:
+      active: false
+
+    data:
+      layout: grid
+
+      options:
+        count: true
+        image: true
+        summary: true
+
+      category_kind: pages
+      taxonomy_id: 
+      categories:
 
 
 
