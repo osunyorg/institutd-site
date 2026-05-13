@@ -19,8 +19,8 @@ items:
   descendants_targets: []
   path: "/programs"
   file: content/fr/programs/_index.html
-- title: Recherche
-  slug: recherche
+- title: Actions
+  slug: actions
   target: "/recherche/"
   kind: page
   new_tab: false
