@@ -21,13 +21,13 @@ items:
   file: content/fr/programs/_index.html
 - title: Actions
   slug: actions
-  target: "/recherche/"
+  target: "/actions/"
   kind: page
   new_tab: false
   children: []
   descendants_targets: []
-  path: "/pages/recherche"
-  file: content/fr/pages/recherche/_index.html
+  path: "/pages/actions"
+  file: content/fr/pages/actions/_index.html
 - title: Actualités
   slug: actualites
   target: "/actualites/"

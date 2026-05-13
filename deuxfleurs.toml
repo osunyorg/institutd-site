@@ -23,6 +23,10 @@ from = "/formations/commerce-connecte-parcours-design-et-innovation-sociale/inde
 to = "/formation/commerce-connecte-parcours-design-et-innovation-sociale/"
 
 [[redirects]]
+from = "/recherche/index.html"
+to = "/actions/"
+
+[[redirects]]
 from = "/projets/mediation-scientifique/index.html"
 to = "/projets/services/mediation-scientifique/"
 
