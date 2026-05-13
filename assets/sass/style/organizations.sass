@@ -2,3 +2,20 @@
     .media
         img
             mix-blend-mode: multiply
+
+.block-organizations
+    &.block-class-logo-wall 
+        background: $color-light-blue
+        padding-top: $spacing-4
+        padding-bottom: $spacing-4
+        .media
+            background: none
+            padding: 0
+            picture
+                filter: saturate(0) invert(1)
+                max-width: 200px
+                max-height: 150px
+                img
+                    object-position: top left
+        .organization-title
+            display: none
