@@ -15,8 +15,16 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
+from = "/projets/edition-et-communication/index.html"
+to = "/projets/services/edition-et-communication/"
+
+[[redirects]]
 from = "/formations/commerce-connecte-parcours-design-et-innovation-sociale/index.html"
 to = "/formation/commerce-connecte-parcours-design-et-innovation-sociale/"
+
+[[redirects]]
+from = "/projets/mediation-scientifique/index.html"
+to = "/projets/services/mediation-scientifique/"
 
 [[redirects]]
 from = "/formations/designer-en-communication-graphique-eco-responsable/index.html"
@@ -53,6 +61,10 @@ to = "/agenda/offre-de-formation/design-et-societes-nouvelles/"
 [[redirects]]
 from = "/institut-superieur-de-design-de-saint-malo/index.html"
 to = "/ecoles/institut-superieur-de-design-de-saint-malo/"
+
+[[redirects]]
+from = "/projets/conseil-en-strategie/index.html"
+to = "/projets/services/conseil-en-strategie/"
 
 [[redirects]]
 from = "/actualites/offre-de-formation/commerce-connecte-parcours-design-et-innovation-sociale/design-et-societes-nouvelles-bac-3/index.html"
