@@ -3,7 +3,7 @@ _merge: deep
 params:
   logo:
     header: "/assets/images/institut-design-logo-header.svg"
-    footer: "/assets/images/d-blanc.svg"
+    footer: "/assets/images/d-carre-blanc.svg"
   breadcrumb:
     position: after-hero
   summary:
