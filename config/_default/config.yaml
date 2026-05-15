@@ -2,7 +2,7 @@ theme: osuny
 _merge: deep
 params:
   logo:
-    header: "/assets/images/institut-design-logo-header.svg"
+    header: "/assets/images/institutd-logo-ecole-design.svg"
     footer: "/assets/images/d-carre-blanc.svg"
   breadcrumb:
     position: after-hero
