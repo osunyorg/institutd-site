@@ -9,6 +9,33 @@ fr:
   buildFuture: true
   params:
     contact_details:
+      emails:
+        email:
+          label: >-
+            contact@institut.design
+          value: >-
+            mailto:contact@institut.design
+      social_networks:
+        facebook:
+          label: >-
+            institutd
+          value: >-
+            https://www.facebook.com/institutd
+        instagram:
+          label: >-
+            institutd
+          value: >-
+            https://instagram.com/institutd
+        linkedin:
+          label: >-
+            linkedin.comschoolinstitut-d
+          value: >-
+            https://www.linkedin.com/school/institut-d/
+        youtube:
+          label: >-
+            institutd
+          value: >-
+            https://www.youtube.com/@institutd
 
   taxonomies:
     administrator: administrators
